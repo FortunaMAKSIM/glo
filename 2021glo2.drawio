@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.12">
   <diagram name="Страница — 1" id="UzoB-SKU8dqvIC3F3B4b">
-    <mxGraphModel>
+    <mxGraphModel dx="1150" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m42j-4T92V6Gx8V7wr2U-1" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="324" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m42j-4T92V6Gx8V7wr2U-2" value="minMater, materID" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="150" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m42j-4T92V6Gx8V7wr2U-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m42j-4T92V6Gx8V7wr2U-2" target="m42j-4T92V6Gx8V7wr2U-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="320" as="sourcePoint" />
+            <mxPoint x="310" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m42j-4T92V6Gx8V7wr2U-4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m42j-4T92V6Gx8V7wr2U-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="520" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m42j-4T92V6Gx8V7wr2U-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m42j-4T92V6Gx8V7wr2U-6" value="minMater - минимальное количество материалов&lt;br&gt;materID -&amp;nbsp; Id материала&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="300" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
