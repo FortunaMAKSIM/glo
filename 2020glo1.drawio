@@ -54,6 +54,78 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-24" value="Главная страница" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="525" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="X3hLX0CLHgd_pWzVqLk9-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="470" as="sourcePoint" />
+            <mxPoint x="416" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-26" value="Нажать на кнопку страницы списка пользователей" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="145" y="518" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-27" value="Нажать на кнопку страницы тэгов" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="517" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X3hLX0CLHgd_pWzVqLk9-26" target="X3hLX0CLHgd_pWzVqLk9-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="770" as="sourcePoint" />
+            <mxPoint x="290" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X3hLX0CLHgd_pWzVqLk9-24" target="X3hLX0CLHgd_pWzVqLk9-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="760" as="sourcePoint" />
+            <mxPoint x="500" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-30" value="Страница списка пользователей" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="760" width="125" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.537;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X3hLX0CLHgd_pWzVqLk9-30" target="X3hLX0CLHgd_pWzVqLk9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="750" as="sourcePoint" />
+            <mxPoint x="135" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=40;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="X3hLX0CLHgd_pWzVqLk9-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="762" as="sourcePoint" />
+            <mxPoint x="490" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="X3hLX0CLHgd_pWzVqLk9-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="680" as="sourcePoint" />
+            <mxPoint x="266" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="X3hLX0CLHgd_pWzVqLk9-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="830" as="sourcePoint" />
+            <mxPoint x="610" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-39" value="" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="760" width="125" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-40" value="&lt;br&gt;Редактирование списка" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="170" y="860" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-41" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="553" y="860" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X3hLX0CLHgd_pWzVqLk9-42" value="Отметить посещение" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="165.5" y="990" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
